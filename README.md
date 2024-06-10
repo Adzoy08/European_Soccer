@@ -20,7 +20,7 @@ An initiative to analyze 10,000+ players and 25,000+ matches from 11 European co
 ## File Descriptions
 * *01_Gather_Data* downloads the database from Kaggle
 * *02_Player_Attributes* analyzes the Players
-* 
+* *03_Team_Attributes* analyzes the Teams
 
 ---
 ## Specifications
