@@ -1,6 +1,10 @@
 # Jupyter Notebook
 .ipynb_checkpoints/
 workplace.ipynb.ipynb_checkpoints
-soccer/database.sqlite
 workplace.ipynb
-workplace
+
+# database
+soccer/database.sqlite
+
+Folders
+data/*.csv
