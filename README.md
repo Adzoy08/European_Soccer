@@ -1,5 +1,6 @@
 # EUROPEAN SOCCER DATA ANALYSIS
-## 
+## Click [here](https://www.kaggle.com/datasets/hugomathien/soccer) for a detail report from *Kaggle* on the European Soccer Dataset.
+
 By: S. D. Boadi
 
 ***
@@ -12,13 +13,13 @@ By: S. D. Boadi
 6. 
 ---
 ## Project Overview
-Text
+An initiative to analyze 10,000+ players and 25,000+ matches from 11 European countries. The data was based on season 2008 to 2016.
 
 
 ---
 ## File Descriptions
-* _example.txt_ contains...
-* _data_ folder contains ...
+* *01_Gather_Data* downloads the database from Kaggle
+* *02_Player_Attributes* analyzes the Players
 * 
 
 ---
